@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+.temp1{
+    color: black; 
+      justify-content: center;
+      /* display: flex; */
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Pangolin', cursive;
+      margin-top: 105px;
+      /* background-color: yellow; */
+      margin-bottom: 20px;
+}
+
+.temp1 .ski{
+    text-align: center;
+    margin-bottom: 42px;
+    font-size: 44px;
+    color:white;
+}
+  
+.maincontainer{
+    display: flex;
+    width:100%;
+    height:75%;
+}
+
+.sleft{
+    flex: 2;
+    /* background-color: aqua; */
+    /* background-color: black; */
+    margin:36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sright{
+    flex:3;
+    /* background-color: blue; */
+    margin: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.link{
+    text-align: center;
+}
+.image-con{
+    width: 450px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  /* background-color: beige; */
+  height: 400px;
+  /* border-radius: 4px;
+  box-shadow: 10px 10px 8px 10px #888888; */
+}
+  
+.image-con img{
+    height: 130px;
+    width:130px;
+    padding: 12px; 
+    margin-top: 8px;
+}
+.head
+{
+        text-align: center;
+        font-size: 34px;
+        margin-bottom: 42px ;
+        color: white;
+        background-color: black;
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 10s linear infinite;
+  display: inline-block;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+
+.project-sec{
+    width: 800px;
+    display: flex;
+    align-items: center;
+     justify-content: center; 
+    /* flex-wrap: wrap; */
+    /* background-color: whitesmoke; */
+  /* background-color: beige; */
+  height: 400px;
+  padding: 12px;
+  /* box-shadow: 10px 10px 8px 10px #888888;
+  border-radius: 4px; */
+  flex-wrap: wrap;
+}
+
+/*Begin shimmer code*/
+
+
+.tail{
+    text-align: center;
+    font-size: 34px;
+    margin-bottom: 42px ;
+    color: white;
+    /* background-color: black; */
+    text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 10s linear infinite;
+  display: inline-block;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+.temp8{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.tech a{
+    color:grey;
+    font-size: 32px;
+}
+.tech{
+    color: grey;
+    padding: 12px;
+} 
+  .v11 , .v12 , .v21{
+    height: 140px;
+    width: 350px;
+    margin-bottom: 13px;
+  }
+  .port{
+    height: 140px;
+    width: 300px;
+    margin-bottom: 13px;
+    background-color: white;
+  }
+
+  .divi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height:10vh;
+  }
+
+  .btnn{
+    padding:16px 24px;
+    margin: 16px;
+    border-radius: 10px;
+    background-color: green;
+    margin-right: 36px;
+  }
+
+  .linking{
+    color: white;
+    font-size: 28px;
+  }

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+.main{
+    display:flex;
+    padding-top: 90px;
+    height: 100vh;
+}
+
+.image {
+    display: flex;
+    flex: 2;
+    align-items: center;
+    justify-content: center;
+  width: 400px;
+  z-index: 5;
+  padding-top: 50px;
+}
+
+.image img{
+    height: 450px;
+    width: 300px;
+   /* margin: 35px; */
+
+}
+
+.description{
+    flex:3;
+    font-size: 26px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+h1{
+    margin:5px 0px;
+    padding: 5px;
+    font-family: 'Geologica', sans-serif;
+}
+typewriter{
+    z-index: 2;
+    padding: 5px;
+  }
+  .typewriter h3 {
+    color: rgb(189, 244, 152);
+    z-index: 2;
+    /* font-family: monospace; */
+    overflow: hidden; 
+    border-right: .05em solid white;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .05em;
+    font-size: 32px;
+    animation: 
+      typing 4.5s steps(30, end) infinite alternate,
+      blink-caret .5s step-end infinite;
+      font-family: 'Geologica', sans-serif;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: white }
+
+  }
+
+.bio{
+    margin:5px 0px;
+    font-size: 22px;
+    padding: 22px;
+    font-family: 'Geologica', sans-serif;
+}
