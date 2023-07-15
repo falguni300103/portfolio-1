@@ -32,6 +32,13 @@ ul{
   cursor: pointer;
 }
 
+@media screen and (max-width:300px)  {
+  .btn{
+    padding:6px 16px;
+    font-size: 0.75rem;
+  }
+}
+
 .btn-light{
   background: transparent;
   color: #fff;

@@ -14,9 +14,9 @@ const Aboutme = () => {
         </div>
         <div className="description">
           <h1>About me</h1>
-          <div className="typewriter">
+          {/* <div className="typewriter">
             <h3>Consistency is the foundation of virtuee</h3>
-          </div>
+          </div> */}
           <p class="bio">I am currently persuing my Bachelor's degree in Information Technology
             from National Institute of Technology , Raipur and I'll be graduating in 2025.
             <br/>

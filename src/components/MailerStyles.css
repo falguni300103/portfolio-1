@@ -46,9 +46,8 @@
 .submit{
     height:10%;
     width:30%;
-    font-size: 22px;
-    padding: 10px 25px;
-    font-size: 24px;
+    font-size: 26px;
+    /* padding: 10px 25px; */
     text-align: center;
     cursor: pointer;
     outline: none;
@@ -67,4 +66,16 @@
 
 .heading{
     font-size: 32px;
+}
+
+@media screen and (max-width:1250px) {
+  .f1{
+    width:70%;
+  }
+}
+
+@media screen and (max-width:1250px) {
+  .f1{
+    width:95%;
+  }
 }

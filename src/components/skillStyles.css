@@ -207,3 +207,19 @@
     color: white;
     font-size: 28px;
   }
+
+  @media screen and (max-width:1160px) {
+    .temp1{
+      height: 100vh;
+      margin-top: 105px;
+      /* background-color: yellow; */
+      margin-bottom: 20px;
+    }
+    
+  }
+  @media screen and (max-width:1350px) {
+    .image-con{
+      width:200px;
+    }
+    
+  }
