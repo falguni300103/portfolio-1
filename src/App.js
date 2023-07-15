@@ -5,7 +5,7 @@ import About from "./routes/About";
 import Education from "./routes/Education";
 import Skills from "./routes/Skills";
 import Contact from "./routes/Contact";
-import {Route,Routes} from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import { ThemeContext, themes } from "../src/context/themecontext"
 import Posts from './components/Posts';
  
@@ -45,7 +45,8 @@ function App() {
     <>
       <ThemeContext.Provider value={{ theme, handleOnClick }}>
     <Routes>
-      <Route path="/portfolio-1" element={<Home/>} />
+      <Route path = "/portfolio-1" element = {<Home/>} />
+      <Route path="/" element={<Home/>} />
       <Route path="/about" element={<About/>} />
       <Route path="/education" element={<Education/>} />
       <Route path="/skills" element={<Skills/>} />
