@@ -45,7 +45,7 @@ function App() {
     <>
       <ThemeContext.Provider value={{ theme, handleOnClick }}>
     <Routes>
-      <Route path="/" element={<Home/>} />
+      <Route path="/portfolio-1" element={<Home/>} />
       <Route path="/about" element={<About/>} />
       <Route path="/education" element={<Education/>} />
       <Route path="/skills" element={<Skills/>} />
