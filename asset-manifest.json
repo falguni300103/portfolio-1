@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-1/static/css/main.fdf9f3cf.css",
+    "main.js": "/portfolio-1/static/js/main.b3b323fb.js",
+    "static/media/v1.mp4": "/portfolio-1/static/media/v1.1b7ba4b1bce8e8817567.mp4",
+    "static/media/schoolPic.jpeg": "/portfolio-1/static/media/schoolPic.9dc97566608d48028565.jpeg",
+    "static/media/v21.mp4": "/portfolio-1/static/media/v21.87df7684976d2c3ef178.mp4",
+    "static/media/v2.mp4": "/portfolio-1/static/media/v2.afa7f416644ec81becb4.mp4",
+    "static/media/IntroImg.gif": "/portfolio-1/static/media/IntroImg.b0c7b9a83c2510864e7e.gif",
+    "static/media/contactbg.webp": "/portfolio-1/static/media/contactbg.d6e5b194afc02f818406.webp",
+    "static/media/my-pic.jpg": "/portfolio-1/static/media/my-pic.5b50a857d15d0417783a.jpg",
+    "static/media/highschoolpic.jpg": "/portfolio-1/static/media/highschoolpic.2c3a9ec5469e0ff79980.jpg",
+    "static/media/college-pic.gif": "/portfolio-1/static/media/college-pic.6f51e726932ae4809290.gif",
+    "static/media/react.png": "/portfolio-1/static/media/react.4be193e46d8a995bcf7c.png",
+    "static/media/css.png": "/portfolio-1/static/media/css.b241ce78fc11e932b708.png",
+    "static/media/c++.png": "/portfolio-1/static/media/c++.ff4a6ee989aa2c784763.png",
+    "static/media/html.png": "/portfolio-1/static/media/html.47351044c102a6286b94.png",
+    "index.html": "/portfolio-1/index.html",
+    "main.fdf9f3cf.css.map": "/portfolio-1/static/css/main.fdf9f3cf.css.map",
+    "main.b3b323fb.js.map": "/portfolio-1/static/js/main.b3b323fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf9f3cf.css",
+    "static/js/main.b3b323fb.js"
+  ]
+}
