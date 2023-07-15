@@ -24,7 +24,7 @@ const Aboutme = () => {
             interest in solving problems and hence I started with hackerrank and consequently
             shifted to leetcode and gfg for further practice. I have solved upto 1000+ problems on
             DSA till now and participated in several contests. I was also awarded as a Diva winner in one of the
-            coding contests held in our college.
+            coding contests held in our college and finalist of Google Girl Hackathon'23.
            <br/>
             I have knowledge of devlopment languages like Javascript and React and have made projects using them. I started
             with basic HTML and then learned CSS for static websites. Then I switched to Javascript 
